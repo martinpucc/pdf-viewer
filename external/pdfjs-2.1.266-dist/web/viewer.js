@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'PUCC 2023 AP 場刊-url.pdf',
+    value: '2023 AP 場刊_Final.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
