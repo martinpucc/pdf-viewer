@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: '2023 AP 場刊_Final.pdf',
+    value: '2023 AP 場刊 Final_v.4.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
