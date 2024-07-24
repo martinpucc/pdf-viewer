@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: '2023 AP 場刊 Final_v.4.pdf',
+    value: '(最終版）二十周年感恩崇拜程序表.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
