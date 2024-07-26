@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: '(最終版）二十周年感恩崇拜程序表.pdf',
+    value: 'final-二十周年感恩崇拜程序表(online).pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
